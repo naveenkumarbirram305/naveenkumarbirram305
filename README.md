@@ -59,7 +59,6 @@ I have 3 years of experience in Java and React, during which I have developed bo
 - [Star reward for outstanding performance and lasting- Oct-2023]
 - [Star reward for outstanding performance and lasting- Feb-2023]
 - [Rising Star Reward for outstanding performance and lasting- Jun-2022]
-- 
 ---
 
 Thank you for visiting my GitHub profile! Let's connect and build amazing things together. 🚀

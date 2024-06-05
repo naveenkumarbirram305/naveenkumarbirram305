@@ -38,8 +38,8 @@ An end-to-end e-commerce platform with user authentication, product management, 
 Feel free to reach out to me for collaboration, networking, or any inquiries.
 
 - **LinkedIn**: [Naveen Kumar](https://www.linkedin.com/in/naveen-kumar-birram-6a273a195/)
-- **Email**: [naveenkumarbirram@gmail.com]
-- **GitHub**: [https://github.com/naveenkumarbirram305/naveenkumarbirram305]
+- **Email**: naveenkumarbirram@gmail.com
+- **GitHub**: https://github.com/naveenkumarbirram305/naveenkumarbirram305
 
 ## 💼 Professional Experience
 
@@ -56,9 +56,9 @@ I have 3 years of experience in Java and React, during which I have developed bo
 
 ## 🏆 Achievements
 
-- [Star reward for outstanding performance and lasting- Oct-2023]
-- [Star reward for outstanding performance and lasting- Feb-2023]
-- [Rising Star Reward for outstanding performance and lasting- Jun-2022]
+- Star reward for outstanding performance and lasting- Oct-2023
+- Star reward for outstanding performance and lasting- Feb-2023
+- Rising Star Reward for outstanding performance and lasting- Jun-2022
 ---
 
 Thank you for visiting my GitHub profile! Let's connect and build amazing things together. 🚀
